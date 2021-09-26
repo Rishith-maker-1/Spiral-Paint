@@ -1,6 +1,6 @@
   body{
     cursor: pointer;
-    background-image:URL('bg1.jpg');
+    background-image:url("bg1.jpg");
   }
   h1
   { 
